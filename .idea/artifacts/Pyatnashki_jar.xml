@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="Pyatnashki:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Pyatnashki_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Pyatnashki.jar">
+        <element id="module-output" name="Pyatnashki" />
+      </element>
+    </root>
+  </artifact>
+</component>
